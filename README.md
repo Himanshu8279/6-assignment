@@ -106,3 +106,97 @@ Q-2
 
 }
 
+
+Q-3
+<!DOCTYPE>
+<html>
+    <head>
+
+     <title> 3 question  </title>
+     <link rel="stylesheet" href="6 assignment 3.css" >
+    </head>
+
+<body>
+
+     <div id="navbar">
+
+        <a href="#" id="div1"> Home </a>
+        <a href="#" id="div2"> About Us </a>
+        <a href="#" id="div3"> Contact</a>
+        <a href="#" id="div3"> Blog </a>
+        <a href="#" id="div5"> Login </a>
+
+
+        </div>
+
+
+
+
+
+    </div>
+
+</body>
+<html>
+ style code =
+ *{
+  padding: 0px;
+  margin: 0px;
+
+}
+#navbar {
+
+height: 60px;
+background-color: black;
+display: flex;
+
+text-align: center;
+justify-content : space-evenly;
+    
+}
+
+
+#div1{ 
+
+ color:white;
+ border: 2px dashed yellow;
+ background-color: green;
+ padding-top:20px;
+}
+#div2{ 
+
+ color:white;
+ border: 2px dotted red;
+ background-color: yellow;
+ padding-top:20px;
+
+
+
+}
+#div3{ 
+
+ color:white;
+ border: 2px soloid green;
+ background-color: blue;
+ padding-top:20px;
+
+
+}
+#div4{ 
+
+ color:white;
+ border: 2px solid blue;
+ background-color: green;
+ padding-top:20px;
+
+
+}
+#div5{ 
+
+ color:white;
+ border: 2px solid orange;
+ background-color: yellow;
+ padding-top:20px;
+
+
+}
+
