@@ -45,3 +45,64 @@ style part =
 a {
    color: black;
 }
+
+
+Q-2
+
+
+<!DOCTYPE>
+   <html>
+       <head> 
+             <title> question 2 </title>
+             <link rel="stylesheet" href="6 assignment 2.css">
+       </head>
+
+  <body>
+        <div class="centered-container">
+        <img src="https://pwskills.com/images/pwskills_thumbnail.png">
+    
+        
+        <p> <b>course name</b> : <p>PW skills full stack web development</p> 
+
+       </div>
+
+
+
+
+ </body>
+ </html>
+
+ style  part=
+
+
+ body {
+
+  margin:0px;
+  padding: 0px;
+
+
+}
+.centered-container{
+   
+    height: 450px;
+    padding-top:10px;
+    margin-left: 340px;
+    margin-right:340px;
+    margin-top: 50px;
+    background-color: red;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    
+
+}
+.centered-container img{
+         
+ max-width: 100%;
+ height: auto;
+ border-style: solid;
+ border-color: red;
+ border-radius: 8px;
+
+}
+
