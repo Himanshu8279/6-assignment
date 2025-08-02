@@ -200,3 +200,39 @@ justify-content : space-evenly;
 
 }
 
+Q-4 
+
+<!DOCTYPE>
+<html>
+<head>
+
+       <title> 4 question</title>
+   <link rel="stylesheet" href="6 assignment 4.css">
+
+
+
+</head>
+       <body>
+             
+              <div>image </div>
+
+      </body>
+</html>
+
+stylesheet= 
+div{
+
+    width:400px;
+    height: 400px;
+    color: red;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJv5tdHBqqhjVy1zhBc8b83WikBBgrLdNV6Q&s"); 
+    background-size: cover;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    left:150px;
+    border:2px solid yellow;
+    border-radius: 50%;
+   
+}
+
