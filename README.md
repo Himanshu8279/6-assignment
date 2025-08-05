@@ -391,5 +391,86 @@ h1{
 }
 
 
+Q- 7
+ <!DOCTYPE>
+   <html>
+       <head> 
+             <title> question 7 </title>
+             <link rel="stylesheet" href="6 assignment 7.css">
+       </head>
+
+  <body>
+        
+       <div class=" main "> 
+
+         <div class="bodypart"> 
+         <div class= "image"></div>
+         <div class="paragraph"> <p> <b> course name :</b> pw skills web development </p></div>
+         </div>
+
+       </div>	
+
+</body>
+
+stylesheet=
+
+.main{
+      width: 720px;
+      height: 500px;
+      border: solid 2px black;
+      margin-left: 200px;
+      margin-top: 40px;
+
+
+
+}
+.bodypart{
+     
+    width: 670px;
+   height: 470px;
+   border: solid 2px aqua;
+   margin-top: 2px;
+   margin-left: 10px;
+   background-color: aqua;
+   border-radius:25px;
+
+}
+.image{
+
+    width: 650px;
+    height: 400px;
+    border: solid 2px aqua;
+    background-image: url("https://pwskills.com/images/pwskills_thumbnail.png");
+    background-size: cover;
+    margin-left: 10px;
+    margin-top: 20px;
+
+
+
+}
+
+.paragraph{
+
+    text-align: center;
+    color: red;
+
+}
+
+.main:hover {
+
+   opacity: 0.7;
+
+}
+ 
+main:hover {
+
+transform: scale(1.02);
+
+}
+
+
+
+
+
 
 
