@@ -301,3 +301,95 @@ p{
     color: #333;
 
 }
+
+
+
+q- 6
+
+<!DOCTYPE>
+    <html>
+
+        <head>
+
+         <title> 6 question </title>
+
+       <link rel="stylesheet" href="6 assignment 6.css">
+       </head>
+
+<body>
+
+
+    <div class="border">
+
+
+          <div class="heading">
+
+             <h1> About Us </h1>
+
+          </div>      
+
+          <div class="paragraph">
+
+              <p>PW Skills' mission is to permeate through every student/professional's outlook towards jobs and change their attitude and perspective from          "How Can I Do It?" to "Of Course I Can Do It". We aim to do this by providing exceptional up skilling courses at affordable rates, while being tech-forward so anyone, anywhere can access and improve their ability to be successful in life</p>
+          
+         </div>
+         
+         <div class="image">
+                            
+         </div>
+
+
+
+    
+
+
+
+   </div>
+
+
+     </body>
+</html>
+
+
+
+style=
+
+
+.border{
+   width: 1200px;
+   height: 600px;
+   margin-left: 20px;
+   text-align: center;
+   border: solid 2px black;
+   
+}
+
+
+h1{
+
+   margin-top: 20px;
+   font-size: 3em;
+
+
+}
+
+.paragraph{
+   
+       
+      color: #333;
+
+}
+.image{
+
+      text-align: center;
+      background-image: url("https://pwskills.com/images/aboutUs/aboutUs.png");
+
+      margin: 30 40px;
+      height: 380px;
+      border-radius: 25px;
+      background-size: cover;
+}
+
+
+
+
