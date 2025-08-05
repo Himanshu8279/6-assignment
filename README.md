@@ -236,3 +236,68 @@ div{
    
 }
 
+Q 5 
+
+<!DOCTYPE>
+<HTML>
+      <head>
+             <title> 5 question   </title>
+
+      </head>
+<link rel="stylesheet" href="6 assignment 5.css">
+
+
+  <body>
+
+          <h1> google font </h1>
+       
+        
+          
+
+        <div>
+
+       
+              
+
+       </div>
+
+   <p>  Google Fonts is a library of free and open-source font families, an interactive web directory for browsing 
+        the library, and APIs for using the fonts via CSS and Android. It was launched in 2010 and has since become 
+        a key resource for web developers and designers. With Google Fonts, you can enhance the readability and design 
+        of your website by choosing from hundreds of fonts that are optimized for performance and quality across all 
+        devices and platforms.</p>
+
+
+
+   </body>
+</HTML>
+
+
+stylesheet
+body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f5f5f5;
+            text-align: center;
+}
+div{
+            width: 500px;
+            height: 300px;
+            margin: 20px auto;
+            background-image: url("https://storage.googleapis.com/gd-prod/images/a910d418-7123-4bc4-aa3b-ef7e25e74ae6.60c498c559810aa0.webp");
+            background-size: cover;
+}
+h1 {
+            font-family: 'Oswald', sans-serif;
+            margin-top: 40px;
+            font-size: 3em;
+            color: #333;
+}
+p{
+    line-height: 2;
+    padding: 0 40px;
+    font-size: 1.1em;
+    color: #333;
+
+}
