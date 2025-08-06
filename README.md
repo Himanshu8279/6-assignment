@@ -468,7 +468,53 @@ transform: scale(1.02);
 
 }
 
+Q-3 
 
+<!DOCTYPE>
+
+   <html>
+
+
+       <head>
+
+             <title> 8question </title>
+
+       </head>
+
+         <link rel="stylesheet" href="6 assignment 8.css">
+     
+     <body>
+
+       <div class="list">
+       
+        <h1> Requirements </h1>
+
+        <ol type="i">
+
+        <li> System with minimum i3 processor or better.   </li>
+        <li> At lest 4 GB of RAM.  </li>
+        <li> Working internet  connection. </li>
+        <li> Dedication to learn.</li>
+
+
+        </ol>
+         </div>
+
+      
+     </body>
+  </html>
+
+  style=
+
+  .list{
+    
+    width: 500px;
+    height: 200px;
+    border: solid 2px black; 
+    margin-left: 30px;
+    margin-top: 50px;
+
+}
 
 
 
